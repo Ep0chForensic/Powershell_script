@@ -2,6 +2,7 @@
 
 Hi, this script is used for rapid incident response on windows in french version.
 I made it for myself, but it can be usefull for some of you :)
+This script in in compltetion of the sans live response pdf : https://www.sans.org/reading-room/whitepapers/forensics/live-response-powershell-34302 (read this it worth it)
 
 The script collect the following in an html file :
 
